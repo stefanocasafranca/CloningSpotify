@@ -12,6 +12,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     //Este es un comentario hecho desde mi Laptop MSI para testear recibirlo en la MAC
     // Ya habiendo recibido el mensaje anterior. Voy a hacer una respuesta de mac a laptop
+    //Ya prometo que esta es el ultimo mensaje de laptop a Mac que hare
 
     var window: UIWindow?
 
